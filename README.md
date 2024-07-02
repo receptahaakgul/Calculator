@@ -1,7 +1,16 @@
 ## Calculator
 ----------------------------------------------------------------------------------------
-**Basit bir Hesap Makinesidir. Dosyayı çalıştırmadan önce virüs korumasını kapatınız.**
-***Not: Visual Studio ile açılması önerilir.***
+**This is a basic calculator. Disable your antivirus before running the file.**
+***Note: It is recommended to open with Visual Studio.***
+
+## Steps
++ Extract the file using 'extract all'.
++  Navigate to Calculator-main => Calculator-main => Calculator => Hesap_Makinesi 
++ Right-click on form1.resx and select properties.
++ Click 'Unblock' at the bottom and then click apply.
++ Open the file in Visual Studio.
++ Press F5 to run.
+
 
 ### İmages
 ----------------------------------------------------------------------------------------
