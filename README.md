@@ -1,4 +1,4 @@
-![image](https://github.com/receptahaakgul/Calculator/assets/65404595/253bc54c-7bfc-40c4-9449-6fcbd03df60a)## Calculator
+## Calculator
 ----------------------------------------------------------------------------------------
 **Basit bir Hesap Makinesidir. Dosyayı çalıştırmadan önce virüs korumasını kapatınız.**
 
