@@ -5,7 +5,7 @@
 
 ## Steps
 + Extract the file using 'extract all'.
-+  Navigate to Calculator-main => Calculator-main => Calculator => Hesap_Makinesi 
++  Navigate to " Calculator-main => Calculator-main => Calculator => Hesap_Makinesi "
 + Right-click on form1.resx and select properties.
 + Click 'Unblock' at the bottom and then click apply.
 + Open the file in Visual Studio.
