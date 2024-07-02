@@ -1,6 +1,7 @@
 ## Calculator
 ----------------------------------------------------------------------------------------
 **Basit bir Hesap Makinesidir. Dosyayı çalıştırmadan önce virüs korumasını kapatınız.**
+***Not: Visual Studio ile açılması önerilir.***
 
 ### İmages
 ----------------------------------------------------------------------------------------
